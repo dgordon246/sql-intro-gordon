@@ -2,8 +2,8 @@
 
 SELECT year, name
 FROM teams
-ORDER BY year DESC 
 WHERE park = "U.S. Cellular Field"
+ORDER BY year DESC
 LIMIT 1;
 
 -- Expected result:

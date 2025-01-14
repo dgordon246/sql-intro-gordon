@@ -3,7 +3,7 @@
 
 SELECT year, name
 FROM teams
-WHERE park = "Guaranteed Rate Field"
+WHERE park = "Guaranteed Rate Field";
 
 -- Expected result:
 --
